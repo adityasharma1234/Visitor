@@ -13,6 +13,8 @@ Email - a.sharma@xyz.com
 Phone - 9999999999
 Checkin Time - 9:00 AM IST
 Checkout Time - 4:00 PM IST
+
+##
 Host Details:
 Name - Vishesh Singh
 Email - vs@xyz.com
